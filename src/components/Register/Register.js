@@ -4,7 +4,7 @@ class Register extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
-            emailmail: '',
+            email: '',
             password: '',
             name: ''
         }
